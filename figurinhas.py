@@ -58,5 +58,5 @@ while True:
 #/html/body/div[1]/div/div/div[5]/div/footer/div[1]/div/span[2]/div/div[1]/div[1]/button[4]/div/span
 #fAV
 #/html/body/div[1]/div/div/div[5]/div/footer/div[2]/div/div[3]/div/div/div[1]/div/div[3]/span/span
-#BRANCO
+#PRIMEIRA FIGURINHA
 #/html/body/div[1]/div/div/div[5]/div/footer/div[2]/div/div[3]/div/div/div[2]/div[2]/div/div/div/div[35]/div/span/img
